@@ -1,0 +1,70 @@
+Welcome to Hangman! A word will be chosen at random and
+you must try to guess the word correctly letter by letter
+before you run out of attempts. Good luck!
+
+-----
+|   |
+|
+|
+|
+|
+|
+|
+|
+--------
+
+You have 10 attempts remaining
+------
+
+Please select a letter between A-Z
+> e
+
+You have 9 attempts remaining
+------
+
+-----
+|   |
+|   0
+|
+|
+|
+|
+|
+|
+--------
+
+Please select a letter between A-Z
+> a
+
+You have 9 attempts remaining
+---a--
+
+Please select a letter between A-Z
+> c
+
+You have 8 attempts remaining
+---a--
+
+-----
+|   |
+|   0
+|  -+-
+|
+|
+|
+|
+|
+--------
+
+Please select a letter between A-Z
+> h
+
+You have 8 attempts remaining
+-h-a--
+
+...
+
+Congratulations! shampoo was the word
+
+Would you like to play again?
+> no
