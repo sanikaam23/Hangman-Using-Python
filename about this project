@@ -1,0 +1,20 @@
+Hangman Game
+This is a simple command-line Hangman game written in Python. The game randomly selects a word, and the player must guess the word letter by letter. The player has a limited number of attempts to guess the word correctly before the game ends.
+
+Features
+Randomly selects a word from a predefined list.
+Allows the player to guess the word letter by letter.
+Displays the hangman figure as incorrect guesses are made.
+Tracks the number of remaining attempts.
+Provides feedback on the player's guesses.
+Allows the player to play multiple rounds.
+
+Game Flow
+Welcome Message: The game begins with a welcome message explaining the rules.
+Word Selection: The game randomly selects a word from a predefined list.
+Guessing: The player is prompted to guess one letter at a time.
+If the guessed letter is correct, it will be revealed in the word.
+If the guessed letter is incorrect, a part of the hangman figure will be drawn.
+Winning: The player wins if they guess all the letters of the word correctly before running out of attempts.
+Losing: The player loses if they run out of attempts before guessing the word.
+Play Again: After the game ends, the player is given the option to play again.
